@@ -29,7 +29,6 @@ export default {
 <style lang="stylus" scoped>
   @import "~style/varibles.styl";
   .header{ line-height:$headerHeight;display: flex;background:$bgColor;color: white }
-
   .header-left{ width:.64rem;float:left }
   .back-icon{text-align: center;font-size:.4rem}
 
